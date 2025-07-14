@@ -63,7 +63,7 @@ It's recommended to have the `PX4-Autopilot` src and the ros 2 workspace(s) insi
     ```
     The agent and client are now running and they should connect.
 
-# Build & Run ROS 2 Wrokspace
+# Build & Run ROS 2 Workspace
 * You can build/run ROS 2 workspace as described [here](https://docs.px4.io/main/en/ros/ros2_comm.html#build-ros-2-workspace)
 
 # Examples
